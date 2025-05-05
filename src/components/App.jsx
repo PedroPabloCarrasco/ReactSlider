@@ -7,7 +7,7 @@ import Slides from './Slides/Slides'
 function App() {
 return(
   <div>
-    <Slides/>
+    <Slides images={[{},{}]}/>
 
   </div>
 )
